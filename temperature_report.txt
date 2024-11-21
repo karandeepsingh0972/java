@@ -1,0 +1,2 @@
+Average Temperature: 29.475
+Days Above Average Temperature: [1, 2]

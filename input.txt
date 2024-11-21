@@ -1,0 +1,1 @@
+The input stream is linked with the file input.txt.

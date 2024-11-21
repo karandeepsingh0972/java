@@ -1,0 +1,2 @@
+Hello, this is a sample file for demonstrating race conditions.
+Each thread will try to read this file.
